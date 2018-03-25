@@ -10,3 +10,5 @@ una mano, porque mi solución de meter margenes a los lados funciona mientras no 
 >>>>>>> 4374e9b5e73551347668fcabda0b2aff8fcb427e
 
 + Dani -> Mirate https://getbootstrap.com/docs/4.0/layout/grid/#horizontal-alignment
+
+Dani -> Recuerda, cuando voy a terminar hacer un commit, cuando voy a conectar y trabajar un push 
