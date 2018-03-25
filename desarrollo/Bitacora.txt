@@ -1,1 +1,2 @@
 Jorge - 25/03/2018 - 17:00 ---> Voy a jugar con la landing para aprender bien a usar bootstrap
+Dani - 25/03/2018 - 17:00 --> Creando una carpeta con el mismo contenido de la landing pero para emepzar a tocar código mientras nos mandan el diseño de la landing
