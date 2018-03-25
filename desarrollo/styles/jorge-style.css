@@ -11,8 +11,15 @@
 
 .espaciado {
   padding-top:8em;
-  padding-left: 15px;
+  padding-left: 24em;
+ 
 }
+
+.espaciado-logo {
+  padding-left: 8em;
+ 
+}
+
 .subtitulo {
   font-family: Avenir LT Std 45 Book;
   font-size: 16px;
@@ -41,4 +48,21 @@
 .list-sin-puntos {
 	list-style:none;
 	padding-top:2em;
+}
+
+.fila-degradada {
+	background: linear-gradient(-120deg, #77dcfc, #1a58fc);
+}
+
+.espaciado-movil {
+  padding-top:5em;
+  padding-left:8em;
+  text-align:center;
+
+}
+
+.container-full {
+	width:100%
+  
+
 }
