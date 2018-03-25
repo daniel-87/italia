@@ -1,1 +1,6 @@
 Jorge - 25/03/2018 - 17:00 ---> Voy a jugar con la landing para aprender bien a usar bootstrap
+Jorge - 25/03/2018 - 20:00 ---> Ya he creado mis estilos y mierdas varias para ir probando. Mira lo que he hecho en prueba-bootstrap.html ^^
+
+¡¡ATENCION DUDA!! El diseño de la landing está limitado en el ancho, pero nosotros a la hora de diseñar, tenemos que hacerla a full no? He tenido que quitar las capas del tipo
+class container ya que el contenedor se limita a un ancho fijo y no me dejaba hacerla a full. Pero claro, tengo dificultades para centrar el contenido, en eso necesito qu eme eches
+una mano, porque mi solución de meter margenes a los lados funciona mientras no reduzcas luego el tamaño de la pantalla y entonces peta todo.
