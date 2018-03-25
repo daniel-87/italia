@@ -16,3 +16,10 @@
 .fill-color-steel{ background-color:#858b92;}
 .fill-color-cloudy-blue{ background-color:#d0d8e1;}
 .fill-color-greyish-brown{ background-color:#4c4c4c;}
+
+
+// botones
+
+.button-3{border-radius: 4px; border:none !important; width:179px; height:55px;}
+.button-2{border-radius: 4px; border:none !important; width:179px; height:48px;}
+.button-1{border-radius: 4px; border:none !important; width:179px; height:44px;}

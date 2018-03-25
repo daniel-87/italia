@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+.h2-inicio {
+  font-family: Avenir LT Std 45 Book;
+  font-size: 56px;
+  line-height: 1.11;
+  text-align: left;
+  color: #4c4c4c;
+}
+
+.espaciado {
+  padding-top:8em;
+  padding-left: 24em;
+ 
+}
+
+.espaciado-logo {
+  padding-left: 8em;
+ 
+}
+
+.subtitulo {
+  font-family: Avenir LT Std 45 Book;
+  font-size: 16px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #858b92;
+}
+
+.color-perfecto {
+	color:#fd6c62;
+}
+
+.btn-google-play {
+  width: 160px;
+  height: 54px;
+  object-fit: contain;
+}
+
+.btn-app-store {
+  width: 160px;
+  height: 54px;
+  object-fit: contain;
+}
+
+.list-sin-puntos {
+	list-style:none;
+	padding-top:2em;
+}
+
+.fila-degradada {
+	background: linear-gradient(-120deg, #77dcfc, #1a58fc);
+}
+
+.espaciado-movil {
+  padding-top:5em;
+  padding-left:8em;
+  text-align:center;
+
+}
+
+.container-full {
+	width:100%
+  
+
+}
