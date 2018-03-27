@@ -1,3 +1,84 @@
-@charset "UTF-8";
+@charset "utf-8";
 /* CSS Document */
 
+.h2-inicio {
+  font-family: Avenir LT Std 45 Book;
+  font-size: 56px;
+  line-height: 1.11;
+  text-align: left;
+  color: #4c4c4c;
+}
+
+.h2-blanco{
+	color:#FFF;
+	font-size:36px;
+	font-weight:900;
+}
+
+.subtitulo {
+  font-family: Avenir LT Std 45 Book;
+  font-size: 16px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #858b92;
+}
+
+.color-perfecto {
+	color:#fd6c62;
+}
+
+.btn-google-play {
+  width: 160px;
+  height: 54px;
+  object-fit: contain;
+}
+
+.btn-app-store {
+  width: 160px;
+  height: 54px;
+  object-fit: contain;
+}
+
+.list-sin-puntos {
+	list-style:none;
+	padding-top:2em;
+	padding-left:0;
+	
+}
+
+
+
+.fila-degradada {
+	background: linear-gradient(-120deg, #77dcfc, #1a58fc);
+	margin-top:-2.6em;
+}
+
+.cont-blanco-sup{
+margin-top:-5em;
+background-color:#FFF;
+}
+.fila-degradada-naranja {
+	background: linear-gradient(0deg, #fd6162, #fd8562);
+	padding:1.5em;
+	margin-top:8em;
+}
+
+.espaciado-movil {
+  padding-top:3em;
+  text-align:center;
+
+}
+.fondo-bloque-1 {
+	background-image:url("../images/movil-derecha.jpg");
+    background-repeat: no-repeat;
+	text-align:center;
+	}
+
+.margen-izquierdo {
+	padding-left:0;
+}
+
+.alineacion-centro{
+	text-align:center;
+}
