@@ -18,3 +18,5 @@ Dani -> Recuerda, cuando voy a terminar hacer un commit, cuando voy a conectar y
 Jorge - 27/03/2018 - 21:00 --> Sigo trabajando en el diseño de la landing, aunque no tengamos el sketch, voy a dejar la estructura responsive lista. Dani si te pones a trabajar, 
 ponte con los elementos de la web.
 >>>>>>> 95a9f5947e38a76c4a414dec2b8f1dcec09f2d66
+
+Dani -> 27/03/2018 - 23:50 Ñ-> Si, he estado con el tema de la web con la p‡gina de login, como mola el sketch, Àtu al final puedes instal‡rtelo en tu equipo — vas a tener que trabajar sin el?
