@@ -3,7 +3,9 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9, user-scalable=no, target-densitydpi=device-dpi">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="styles/style.css">
@@ -12,23 +14,38 @@
     <link rel="stylesheet" href="styles/bootstrap-grid.css">
     <link rel="stylesheet" href="styles/fonts/font.css">
 
-    <title>Hello, world!</title>
+    <title>Login</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
     <div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <button class="button-3 fill-color-dark-sky-blue">Enviar</button>
+  		<div class="row top-header">
+    		<div class="col-1 icon-back">
+      			<img src="images/ICN-back-gray.png" />
+            </div>
+            <div class="col-11">
+              <img height="48" alt="Share Studio" src="images/logo.jpg" />
+            </div>
+  		</div>
+	</div>
+    <div class="container">
+    	<div class="row justify-content-center">
+        	<div class="col-4 justify-content-center bienvenida" >
+            	<span>Bienvenido a Sharestudio</span>
+                <p>Regístrate con estos sencillos pasos y reserva tu local en cuestión de segundos</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+        	<div class="col-4 justify-content-center formulario" >
+                <form>
+                	<input type="email">
+                    <input type="password">
+                </form>
+            </div>
+        </div>
     </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-  </div>
-</div>
+    
+   
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
