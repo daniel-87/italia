@@ -22,3 +22,7 @@ ponte con los elementos de la web.
 Dani -> 27/03/2018 - 23:50 Ñ-> Si, he estado con el tema de la web con la p‡gina de login, como mola el sketch, Àtu al final puedes instal‡rtelo en tu equipo — vas a tener que trabajar sin el?
 
 Dani -> 29/03/2018 . 12:00 Ñ-> Creando login, registro paso 1 y 2, me faltan los css de los select
+
+Dani -> 29/03/2018 . 14:00 Ñ-> Paginas reserva realizada, reserva resumen
+
+Dani -> 29/03/2018 Ñ Nota: Voy actualizado el excel con el porcentaje de trabajo realizado

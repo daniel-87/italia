@@ -222,4 +222,83 @@ input[type="submit"]{
  }
 /* reserva realizadas*/
 
+/* resumen reservas */
+.enlace-boton-resumen{
+	background-color: #ffffff;
+	border: solid 1px #d3d6db;
+	width:100%;
+	text-align:center;
+	color: #858b92;
+	font-size:16px;
+}
+.enlace-boton-resumen:hover{
+	color: #3baae4;
+}
+.reserva-realizada span.subtitulo{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 18px;
+	line-height:120%;
+	text-align: left;
+  	color: #4c4c4c;
+}
+
+.caja{
+	background-color: #ffffff;	
+	border: solid 1px #d3d6db;
+}
+.titulo-modalidad{
+	font-family: 'Avenir LT Std 85 Heavy',Myriad Pro, Arial;
+	font-size: 18px;
+	line-height:120%;
+	text-align: left;
+  	color: #4c4c4c;
+}
+.cambiar-modalidad{
+	font-family: 'Avenir LT Std 85 Heavy',Myriad Pro, Arial;
+	font-size: 14px;
+	line-height:120%;
+	text-align: left;
+  	color: #3baae4;
+	text-transform:uppercase;
+}
+.texto-modalidad{
+	font-size: 14px;
+	line-height:120%;
+	text-align: left;
+  	color: #858b92;
+}
+.precio-modalidad{
+	font-family: 'Avenir LT Std 85 Heavy',Myriad Pro, Arial;
+	font-size: 16px;
+	line-height:120%;
+  	color: #858b92;
+}
+.subtitulo-modalidad{
+	font-size: 16px;
+	line-height:120%;
+	text-align: left;
+  	color: #858b92;
+}
+.subprecio-modalidad{
+	font-family: 'Avenir LT Std 45 Book',Myriad Pro, Arial;
+	font-size: 16px;
+	line-height:120%;
+  	color: #858b92;
+}
+.precio-modalidad-total{
+	font-family: 'Avenir LT Std 85 Heavy',Myriad Pro, Arial;
+	font-size: 32px;
+	line-height:120%;
+  	color: #4c4c4c;
+}
+.titulo-modalidad.total{
+	line-height:140%;
+}
+.reserva-realizada p.texto-aviso{
+	font-size: 12px;
+	text-align: center;
+	color: #858b92;
+}
+/* fin resumen reservas */
+
 /* fin paginas reservas */
