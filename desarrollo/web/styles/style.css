@@ -193,3 +193,33 @@ input[type="submit"]{
 
 
 /* fin página registro paso 1 y 2 */
+
+
+/* páginas reservas */
+
+/* reserva realizadas*/
+.reserva-realizada span{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 32px;
+	line-height:120%;
+	text-align: center;
+  	color: #4c4c4c;
+	display:block;
+}
+
+.reserva-realizada p{
+	font-family: 'Avenir LT Std 45 Book',Myriad Pro, Arial;
+	font-size: 18px;
+	line-height: 1.5714285714285714;
+	text-align: center;
+	color: #858b92;
+}
+.enlace-boton{
+	border-radius: 4px;
+	background-color: #3baae4;
+	text-align:center;
+	color:#ffffff;
+ }
+/* reserva realizadas*/
+
+/* fin paginas reservas */
