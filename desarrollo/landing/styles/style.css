@@ -54,6 +54,17 @@
 	margin-top:-2.6em;
 }
 
+.pie-degradado {
+	background: linear-gradient(-120deg, #77dcfc, #1a58fc);
+	
+}
+
+.pie-imagen {
+	background-image:url("../images/fondo-pie.png");
+	background-repeat:repeat-x;
+}
+
+
 .cont-blanco-sup{
 margin-top:-5em;
 background-color:#FFF;
@@ -81,4 +92,15 @@ background-color:#FFF;
 
 .alineacion-centro{
 	text-align:center;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }

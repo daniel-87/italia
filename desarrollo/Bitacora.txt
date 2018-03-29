@@ -26,3 +26,5 @@ Dani -> 29/03/2018 . 12:00 Ñ-> Creando login, registro paso 1 y 2, me faltan los
 Dani -> 29/03/2018 . 14:00 Ñ-> Paginas reserva realizada, reserva resumen
 
 Dani -> 29/03/2018 Ñ Nota: Voy actualizado el excel con el porcentaje de trabajo realizado
+
+Jorge -> 29/03/2018: Sigo con la landing.
