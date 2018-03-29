@@ -156,6 +156,7 @@ input[type="submit"]{
   font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
   font-size: 18px;
   color: #4c4c4c;
+  display:block;
  }
 .infoPasos p{
 	color: #858b92;
@@ -172,6 +173,7 @@ input[type="submit"]{
 	font-size: 14px;
 	height:50px;
 	padding:12px;
+	font-family: 'Avenir LT Std 85 Heavy',Myriad Pro, Arial;
 }
 .custom-file-label.foto:after{
 	display:none;
@@ -180,5 +182,14 @@ input[type="submit"]{
 .colegiado{
 	padding-left:55px;
 }
+
+.pasos-registro input[type="email"], .pasos-registro input[type="password"]{
+	background-image:none;
+}
+
+.dropdown-divider{
+	border: solid 1px #d0d8e1;
+}
+
 
 /* fin página registro paso 1 y 2 */
