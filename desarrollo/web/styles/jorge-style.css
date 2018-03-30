@@ -58,3 +58,10 @@
 
 /* Fin reserva contrato scroll */
 
+
+/* Proceso reserva 1 */
+
+.boton-gris{
+	background-color: #858b92 !important;
+  background-color: var(--steel);
+}
