@@ -109,6 +109,17 @@ input[type="submit"]{
 	border:none;
 	cursor:pointer;
 }
+textarea{
+	width:100%;
+	border: solid 1px #bfc6ce;
+	height:200px;
+	color: #868c99;
+	font-family:14px;
+	line-height:120%;
+	background-color:#ffffff;
+	text-align:left;
+	font-family: 'Avenir LT Std 45 Book',Myriad Pro, Arial;
+}
 /* fin página login */
 
 /* página registro paso 1 y 2 */
@@ -353,5 +364,39 @@ input[type="submit"]{
 
 }
 /* fin reserva aceptada */
+
+/* reserva valoracion */
+
+.reserva-valoracion{}
+.reserva-valoracion span.subtitulo{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 18px;
+	line-height:120%;
+	text-align: center;
+  	color: #4c4c4c;
+	display:block;
+}
+
+.estrellas-valoracion{
+	width:100%;
+	text-align:center;
+}
+.estrellas-valoracion .estrella{
+	cursor:pointer;
+	width:58px;
+	height:55px;
+	background-image:url(../images/star-border@1,5x.png);
+	display:inline-block;
+	background-repeat:no-repeat;
+	margin:0 1.5% 1.5% 1.5%;
+}
+.estrellas-valoracion .estrella:hover{
+	background-image:url(../images/star-orange@1,5x.png);
+}
+.estrellas-valoracion .estrella.checked{
+	background-image:url(../images/star-orange@1,5x.png);
+}
+
+/* fin reserva valoracion */
 
 /* fin paginas reservas */
