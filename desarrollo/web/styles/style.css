@@ -220,6 +220,10 @@ input[type="submit"]{
 	text-align:center;
 	color:#ffffff;
  }
+ .enlace-boton:hover{
+	 color:#ffffff;
+	 text-decoration:none;
+ }
 /* reserva realizadas*/
 
 /* resumen reservas */
@@ -299,6 +303,55 @@ input[type="submit"]{
 	text-align: center;
 	color: #858b92;
 }
+.precio-reserva-aceptada{
+	font-family: 'Avenir LT Std 85 Heavy',Myriad Pro, Arial;
+	font-size: 24px;
+	line-height:120%;
+  	color: #4c4c4c;
+}
 /* fin resumen reservas */
+
+/* reserva aceptada */
+
+.reserva-aceptada span{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 32px;
+	line-height:120%;
+	text-align: center;
+  	color: #4c4c4c;
+	display:block;
+}
+
+.titular-reserva-realizada{
+	border-bottom: solid 1px #bfc6ce;
+}
+.nombre-reserva{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 24px;
+	line-height:120%;
+	text-align: left;
+  	color: #4c4c4c;
+}
+.informacion-contrato{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 14px;
+	line-height:120%;
+	background-color: #ffffff;
+    width: 100%;
+	color: #858b92;
+    height: 330px;
+    overflow: scroll;
+}
+.informacion-contrato p{
+	text-align:left;
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 14px;
+	line-height:155%;
+}
+.reserva-aceptada .enlace-boton{
+	min-width:50%;
+
+}
+/* fin reserva aceptada */
 
 /* fin paginas reservas */
