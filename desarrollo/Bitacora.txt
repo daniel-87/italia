@@ -33,3 +33,5 @@ Dani -> 30/03/2018 . 10:45 Ñ-> Reserva realizada (scroll) - mira si te parece bi
 
 Jorge -> 30/03/2018 13:00 --> Voy a intentar dejar el scrollbar igual que en el diseño.
 Dani -> 30/03/2018 . 12:15 Ñ-> Empiezo con la home 
+
+Jorge -> 30/03/2018 13:50 --> Me pongo con los diseños de Subida de anuncio
