@@ -65,3 +65,51 @@
 	background-color: #858b92 !important;
   background-color: var(--steel);
 }
+
+/* Fin Proceso reserva 1 */
+
+/* Proceso reserva 2 */
+
+.seleccion-clinica {
+	text-align:center;
+}
+
+.seleccion-clinica p{
+	color:#4c4c4c;
+	font-weight:600;
+	text-align:center;
+	padding-top:2em;
+}
+
+/* Fin Proceso reserva 2 */
+
+
+/* Proceso reserva 3*/
+
+.form-corto input, .form-corto select{
+	background-color: #ffffff;
+	border: solid 1px #bfc6ce;
+	font-family: 'Avenir LT Std 45 Book', Myriad Pro, Arial;
+	color:#868C99;
+	font-size:14px;
+	margin-bottom:18px;
+	width:100%;
+	height:50px;
+	border-radius:2px;
+}
+
+.texto-caja-fuera {
+	padding-bottom:2em;
+}
+
+.work {
+  font-family: Avenir LT Std 45 Book;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+  color: var(--greyish-brown);
+}
+
+/* Fin Proceso reserva 3 */
