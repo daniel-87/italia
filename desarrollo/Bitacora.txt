@@ -31,4 +31,5 @@ Jorge -> 29/03/2018: Sigo con la landing.
 
 Dani -> 30/03/2018 . 10:45 Ñ-> Reserva realizada (scroll) - mira si te parece bien as’ el scroll À?, reserva valoraci—n, mira si te parece bien el sistema de las estrellas, reserva resumen tarjeta
 
+Jorge -> 30/03/2018 13:00 --> Voy a intentar dejar el scrollbar igual que en el diseño.
 Dani -> 30/03/2018 . 12:15 Ñ-> Empiezo con la home 
