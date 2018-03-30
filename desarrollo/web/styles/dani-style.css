@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* home */
+
+h1.titulo-h1{
+	font-size: 56px;
+	line-height:120%;
+	color: #4c4c4c;
+	text-align:left;
+	font-family:'Avenir LT Std 95 Black',Myriad Pro, Arial;
+	font-weight:normal
+}
+
+h1.titulo-h1 span{
+	color: #fd6c62;
+}
+
+.imagen-destacada{
+	max-width:100%;
+}
+.subtitulo-h{
+	color: #858b92;
+	font-size: 16px;
+	line-height:120%;
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+}
+.formulario-home{}
+.formulario-home p{
+	color: #858b92;
+	font-size: 16px;
+	line-height:120%;
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+}
+
+.formulario-home select{
+	border-bottom: solid 1px #bfc6ce;
+	width:100%;
+}
+h2.titulo-h2{
+	font-size: 32px;
+	line-height:120%;
+	color: #4c4c4c;
+	text-align:center;
+	font-family:'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-weight:normal
+}
+.como-funciona p{
+	  color: #4c4c4c;
+	  font-size:14px;
+	  line-height:120%;
+	  text-align: center;
+}
+h3.titulo-h3{
+	font-size: 32px;
+	line-height:120%;
+	color: #4c4c4c;
+	text-align:center;
+	font-family:'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-weight:normal
+}
+.imagen{
+	position:relative;
+}
+.imagen img{
+}
+ul.list{
+}
+ul.list li{
+	font-size: 14px;
+	line-height:150%;
+	color: #858b92;
+	font-family:'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	margin-bottom:1.5rem;
+}
+ul.list li p{
+	font-size: 14px;
+	line-height:150%;
+	color: #858b92;
+	font-family:'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	margin:0;
+}
+	
+ul.list li span{
+	font-size: 16px;
+	line-height:120%;
+	color: #4c4c4c;
+	font-family:'Avenir LT Std 65 Black',Myriad Pro, Arial;
+	font-weight:500;
+	margin-bottom:0.7rem;
+	display:block;
+}
+ul.list li {
+	color:#3baae4;
+	font-size:28px;
+	line-height:19px;
+}
+ul.list li:first-child {
+	color:#fb85ff;
+}
+ul.list li:last-child {
+	color:#ff875c;
+}
+/* home */
+

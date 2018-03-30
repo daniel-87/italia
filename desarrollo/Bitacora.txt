@@ -35,3 +35,5 @@ Jorge -> 30/03/2018 13:00 --> Voy a intentar dejar el scrollbar igual que en el 
 Dani -> 30/03/2018 . 12:15 Ñ-> Empiezo con la home 
 
 Jorge -> 30/03/2018 13:50 --> Me pongo con los diseños de Subida de anuncio
+
+Dani -> 30/03/2018 . 18:40 Ñ-> He creado mi archivo css y sigo con la home 
