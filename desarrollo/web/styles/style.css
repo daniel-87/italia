@@ -365,6 +365,54 @@ textarea{
 }
 /* fin reserva aceptada */
 
+/* reserva pago */
+
+.pago{}
+.pago span{
+	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	font-size: 18px;
+	line-height:120%;
+	text-align: left;
+  	color: #4c4c4c;
+	display:block;
+}
+
+.pago .btn-group{ width:100%;}
+.pago .btn-secondary{
+	background-color:#ffffff;
+	color:#4c4c4c;
+	font-size:16px;
+	line-height:120%;
+	border-radius: 4px;
+  border: solid 1px #bfc6ce;
+  width:50%;
+}
+.pago .btn-secondary:not(:disabled):not(.disabled):active, 
+.pago .btn-secondary:not(:disabled):not(.disabled).active, 
+.pago .show > .btn-secondary.dropdown-toggle{
+	background-color:#ffffff;
+	color:#4c4c4c;
+	border: solid 2px #3baae4;
+}
+.pago p{
+	font-size:16px;
+	line-height:140%;
+}
+.reserva-realizada p.texto-aviso.pago{
+	text-align:left;
+}
+.reserva-realizada p.titulo-aviso{
+	text-align:left;}
+
+
+@media (max-width: 992px) {
+	.reserva-realizada.pago.mt-5{ margin-top:0px !important;	}
+	.reserva-realizada.pago.pt-5{ padding-top:0px !important;}
+	
+	.reserva-realizada.pago .mt-5{ margin-top:0px !important;	}
+}
+/* fin reserva pago */
+
 /* reserva valoracion */
 
 .reserva-valoracion{}
