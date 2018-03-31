@@ -59,7 +59,7 @@
 /* Fin reserva contrato scroll */
 
 
-/* Proceso reserva 1 */
+/* Proceso subida anuncio 1 */
 
 .boton-gris{
 	background-color: #858b92 !important;
@@ -67,9 +67,9 @@
   color:#FFF;
 }
 
-/* Fin Proceso reserva 1 */
+/* Fin Proceso subida anuncio 1 */
 
-/* Proceso reserva 2 */
+/* Proceso subida anuncio 2 */
 
 .seleccion-clinica {
 	text-align:center;
@@ -82,10 +82,10 @@
 	padding-top:2em;
 }
 
-/* Fin Proceso reserva 2 */
+/* Fin Proceso subida anuncio 2 */
 
 
-/* Proceso reserva 3*/
+/* Proceso subida anuncio 3*/
 
 .form-corto input, .form-corto select{
 	background-color: #ffffff;
@@ -113,9 +113,9 @@
   color: var(--greyish-brown);
 }
 
-/* Fin Proceso reserva 3 */
+/* Fin Proceso subida anuncio 3 */
 
-/* Proceso reserva 4*/
+/* Proceso subida anuncio 4*/
 
 .progreso p{
 	font-family: 'Avenir LT Std 45 Book',Myriad Pro, Arial;
@@ -193,11 +193,50 @@
 	 text-decoration:none;
  }
 
-/* Fin Proceso reserva 4 */
+/* Fin Proceso subida anuncio 4 */
 
-/* Proceso reserva 8*/
+/* Proceso subida anuncio 7*/
 
 .rellenar {
 	padding-right: 12px !important;
 	margin-top:1.5em;
 }
+
+/* Fin subida anuncio 7*/
+
+/* Proceso subida anuncio 6*/
+
+.texto-inicial{
+	font-family: Avenir LT Std 45 Book;;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  color: #4c4c4c;
+}
+
+.borderojo {
+    outline: none;
+    border: 1px solid #f00;
+}
+.bordegris { border: 1px solid #d4d4d; }
+
+.alineacion-derecha{
+	text-align: right;
+}
+
+.unidos {
+	margin-bottom:0 !important;
+}
+
+.contador {
+	font-size: 14px;
+  font-weight: 500;
+  color: #4c4c4c;
+}
+
+.boton-guardar {
+	width:256px;
+	height:55px;
+}
+
+/* Fin subida anuncio 6*/
