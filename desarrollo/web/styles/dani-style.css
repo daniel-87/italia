@@ -80,6 +80,12 @@ ul.menu-footer li.nav-item a.nav-link:hover{
 .footer{
 	box-shadow: 0 -1px 0 0 #d0d8e1;
 }
+.logos-app img{ margin-bottom:10px;}
+@media all and (max-width: 768px) and (min-width: 320px) {
+	.footer .text-right{ text-align:center !important;}
+	.justify-content-end.menu-footer{justify-content: center !important;}
+	.logos-app{ text-align:center;}
+}
 /* fin menu footer */
 
 /* home */
@@ -272,5 +278,8 @@ ul.list li:last-child {
 	  background-image: -webkit-gradient(linear, 0 100%, 0 0, from(#fd8762), to(#fd6062));
 	  background-image: -o-linear-gradient(#fd8762, #fd6062);
 	  background-image: linear-gradient(#fd8762, #fd6062);
+}
+.enlace-propietario:hover{
+	text-decoration:none;
 }
 /* home */
