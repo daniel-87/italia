@@ -64,6 +64,7 @@
 .boton-gris{
 	background-color: #858b92 !important;
   background-color: var(--steel);
+  color:#FFF;
 }
 
 /* Fin Proceso reserva 1 */
@@ -113,3 +114,90 @@
 }
 
 /* Fin Proceso reserva 3 */
+
+/* Proceso reserva 4*/
+
+.progreso p{
+	font-family: 'Avenir LT Std 45 Book',Myriad Pro, Arial;
+	font-size: 14px;
+  	font-weight: normal;
+	text-align: center;
+	color: #858b92;
+	line-height: 1.57;
+}
+
+
+.progress-nueva {
+    height: 0.5em !important;
+    border-radius: 0.55em ;
+	background-color: #bfc6ce !important;
+}
+
+
+.borde-caja {
+	border: solid 1px #d0d8e1;
+	
+	padding-top:10px;
+	
+	
+}
+.ancho-columna {
+	height:97px;
+	width:360px !important;
+	margin-right:0em;
+}
+
+.borde-caja p{
+	font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  color: #4c4c4c;
+  margin-bottom:0 !important;
+}
+
+.borde-caja span{
+	font-size: 12px;
+	color: #858b92;
+}
+.alineacion-centro{
+	text-align: center;
+	margin-top: 15px;
+	
+}
+
+.alineacion-izquierda{
+	text-align: left;
+	margin-left:-5px;
+	margin-right:5px;
+	margin-top:5px;
+}
+
+.Rellenado {
+  font-size: 12px !important;
+  font-weight: 900;
+  line-height: 1.83;
+  text-align: center !important;
+  color: #858b92;
+  color: var(--steel);
+}
+
+.boton-vista {
+	width:212px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #bfc6ce;
+}
+
+.boton-vista:hover{
+	 color:#000;
+	 text-decoration:none;
+ }
+
+/* Fin Proceso reserva 4 */
+
+/* Proceso reserva 8*/
+
+.rellenar {
+	padding-right: 12px !important;
+	margin-top:1.5em;
+}
