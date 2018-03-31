@@ -39,3 +39,5 @@ Jorge -> 30/03/2018 13:50 --> Me pongo con los diseños de Subida de anuncio
 Dani -> 30/03/2018 . 18:40 Ñ-> He creado mi archivo css y sigo con la home 
 
 Jorge -> 30/03/2018 19:30 --> Sigo con las paginas de Subida de anuncio. He actualizado el excel tambien.
+
+Dani -> 31/03/2018 . 10:30 Ñ-> Sigo con la home
