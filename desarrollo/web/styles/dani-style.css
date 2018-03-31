@@ -65,6 +65,23 @@ border-bottom-left-radius: 4px;
 }
 /* fin menu principal */
 
+/* menu footer */
+
+ul.menu-footer{}
+ul.menu-footer li.nav-item{}
+ul.menu-footer li.nav-item a.nav-link{
+	color: #858b92;
+	font-size: 16px;
+	line-height:120%;
+}
+ul.menu-footer li.nav-item a.nav-link:hover{
+	color: #4c4c4c;
+}
+.footer{
+	box-shadow: 0 -1px 0 0 #d0d8e1;
+}
+/* fin menu footer */
+
 /* home */
 
 h1.titulo-h1{
