@@ -1,6 +1,69 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* menu principal */
+
+.menu-principal{}
+
+ul.menu-principal{ background-color:#ffffff;}
+
+ul.menu-principal li{
+	margin:0 15px;
+}
+ul.menu-principal li a.nav-link.active{
+	background-color:#ffffff;
+	color: #4c4c4c;
+}
+ul.menu-principal li a.nav-link{
+	color: #858b92;
+	font-size: 16px;
+	line-height:120%;
+	line-height:31px;
+}
+ul.menu-principal li a.nav-link:hover{
+	color: #4c4c4c;
+}
+ul.menu-principal li.explorar a.nav-link{
+	padding-left:15px;
+}
+ul.menu-principal li.explorar:before{
+	content:" · ";
+	color: #3baae4;
+	font-size:34px;
+	line-height:42px;
+	position:absolute;
+}
+ul.menu-principal li.user:before{
+	content: url(../images/icon-user.png);
+	color: #3baae4;
+	position:absolute;
+	margin-top:5px;
+}
+ul.menu-principal li.user a.nav-link{
+	padding-left:45px;
+}
+ul.menu-principal li.show .nav-link{
+	background-color:#ffffff;
+	color: #4c4c4c;
+}
+
+.menu-principal .dropdown-menu{
+	border-radius: 0;
+border-bottom-right-radius: 4px;
+border-bottom-left-radius: 4px;
+}
+
+@media all and (max-width: 768px) {
+	.content-menu{
+		margin-top:1px;
+		margin-bottom:15px;
+		box-shadow: 0 1px 0 0 #d0d8e1;
+	}
+	h1.titulo-h1{
+		margin-top:20px;
+	}
+}
+/* fin menu principal */
 
 /* home */
 
@@ -32,6 +95,8 @@ h1.titulo-h1 span{
 	font-size: 16px;
 	line-height:120%;
 	font-family: 'Avenir LT Std 65 Medium',Myriad Pro, Arial;
+	margin-bottom:0.5rem;
+	margin-top:0.5rem;
 }
 
 .formulario-home select{
@@ -192,4 +257,3 @@ ul.list li:last-child {
 	  background-image: linear-gradient(#fd8762, #fd6062);
 }
 /* home */
-
