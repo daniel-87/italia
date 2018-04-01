@@ -45,3 +45,5 @@ Dani -> 31/03/2018 . 10:30 Ñ-> Sigo con la home
 Jorge -> 31/03/2018 12:30 --> Sigo con las paginas de Subida de anuncio.
 
 Jorge -> 31/03/2018 18:00 --> Sigo con las páginas de subida de anuncio, ya solo restan 2.
+
+Jorge -> 01/04/2018 12:00 --> Me pongo con el calendario. Cuando lo termine te aviso, porque es un elemento que hay que usar en más sitios y te vendrá bien disponer de él.
